@@ -621,7 +621,7 @@ a {
   justify-content: center;
   background-color: rgba(0, 0, 0, 0.6);
   z-index: 99;
-  /* visibility: hidden; */
+  visibility: hidden;
 }
 
 .overlay {
