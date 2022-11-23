@@ -4,7 +4,7 @@
 
 Макеты сайта для различных экранов выглядят так:
 
-![Layout](img/layouts.jpg)
+![Layout](https://github.com/netology-code/mq-diploma/blob/master/img/layouts.jpg)
 
 Исходные файлы макетов хранятся в директории [sources](https://github.com/netology-code/mq-diploma/tree/master/sources) репозитория:
 
